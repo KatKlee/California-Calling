@@ -370,6 +370,7 @@ footer div .serifTextWhite {
 }
 footer div .rsvp {
   grid-column: 1/1;
+  width: min-content;
 }
 footer div section {
   display: flex;
