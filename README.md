@@ -8,8 +8,8 @@ Eine Herausforderung war die Umsetzung der relativ freien Anordnung der Bilder u
 
 Umsetzung nach gegebenen Inhalten und Design.
 
-Version 2.0:
-– responsive Umsetzung
+Version 2.0:  
+– responsive Umsetzung  
 – Funktionalitäten, wie z.B. der RSVP-Button
 
 
